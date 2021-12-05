@@ -1,2 +1,2 @@
  loadstring(game:HttpGet("https://carhub.wtf/script"))()
- loadstring(game:HttpGet("https://raw.githubusercontent.com/FreeRobloxScripts/huuh/9b9560669e62f0a146da4d1652927babccf1fb5d/yass"))()
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/ketamo/promo/main/promo"))()
